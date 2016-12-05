@@ -1,0 +1,9 @@
+E:\WorkSpace\Facultate\Modelare si Simulare\State Machin WinForm\State Machin WinForm\bin\Debug\State Machin WinForm.exe.config
+E:\WorkSpace\Facultate\Modelare si Simulare\State Machin WinForm\State Machin WinForm\bin\Debug\State Machin WinForm.exe
+E:\WorkSpace\Facultate\Modelare si Simulare\State Machin WinForm\State Machin WinForm\bin\Debug\State Machin WinForm.pdb
+E:\WorkSpace\Facultate\Modelare si Simulare\State Machin WinForm\State Machin WinForm\obj\Debug\State Machin WinForm.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Facultate\Modelare si Simulare\State Machin WinForm\State Machin WinForm\obj\Debug\State_Machin_WinForm.CoffeeMachine.resources
+E:\WorkSpace\Facultate\Modelare si Simulare\State Machin WinForm\State Machin WinForm\obj\Debug\State_Machin_WinForm.Properties.Resources.resources
+E:\WorkSpace\Facultate\Modelare si Simulare\State Machin WinForm\State Machin WinForm\obj\Debug\State Machin WinForm.csproj.GenerateResource.Cache
+E:\WorkSpace\Facultate\Modelare si Simulare\State Machin WinForm\State Machin WinForm\obj\Debug\State Machin WinForm.exe
+E:\WorkSpace\Facultate\Modelare si Simulare\State Machin WinForm\State Machin WinForm\obj\Debug\State Machin WinForm.pdb
